@@ -10,13 +10,13 @@
 
 <h2 style="font-size: 1.8rem; color: #222;">Social</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:aliabofooda1234@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://discord.com/users/yourdiscordusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/@realAliAshraf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
   <a href="https://wa.me/yourphonenumber" target="_blank">
