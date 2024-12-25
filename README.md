@@ -11,31 +11,7 @@
 
 ---
 
-```golang
-package main
 
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A dedicated software engineer and frontend developer passionate about crafting interactive web solutions.",
-		"- 🔭 I’m currently working on":      "Optimizing the performance and design of web applications.",
-		"- 🌱 I’m currently learning":        "Advanced Bootstrap, responsive web design, and improving backend skills.",
-		"- 👯 I’m looking to collaborate on": "Frontend development projects, UI/UX enhancements, and Angular-based applications.",
-		"- 🤔 I’m looking for help with":     "Backend optimization and advanced database integrations.",
-		"- 📫 How to reach me:":              "Check my contact links below.",
-	}
-}
 🌐 Connect with Me
 <p align="center"> <a href="mailto:aliabofooda1234@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Email"> </a> <a href="https://www.linkedin.com/in/ali-ashraf-8b619b22a"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn"> </a> <a href="https://twitter.com/@realAliAshraf"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter"> </a> <a href="https://wa.me/+201229576635"> <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp"> </a> </p>
 
