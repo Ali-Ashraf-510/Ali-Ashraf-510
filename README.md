@@ -1,7 +1,13 @@
 <h2 align="left">Hi 👋! My name is Ali Ashraf and I'm a software engineering.</h2>
-
+<h2> About Me </h2>
+<p>
+✨ Creating bugs since 2021
+📚 I'm currently learning ML
+🎯 Goals: AI Devolper
+🎲 Fun fact: he first-ever recorded engineering project was the construction of the Great Pyramid of Giza in ancient Egypt. It is believed that engineers of the time used basic yet brilliant techniques like ramps, levers, and pulleys to move massive stones weighing several tons to build one of the Seven Wonders of the Ancient World!
+</p>
 ###
-
+<h2> Social</h2>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -18,7 +24,7 @@
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB3NWY4NG9pcmxxYmZjOTI5ZHo2c2NkcDduZ3hlNDFqemNvZTNjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif"  />
 
 ###
-
+<h2> I code with </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
