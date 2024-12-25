@@ -1,41 +1,46 @@
-# Hi 👋! My name is Ali Ashraf  
-### I'm a Software Engineer  
+# Hi 👋! I'm Ali Ashraf  
+### Software Engineer | Frontend Developer  
 
 ---
 
 ## About Me  
-✨ Creating bugs since 2021  
-📚 I'm currently learning ML  
-🎯 Goals: AI Developer  
-🎲 **Fun fact:**  
-In 1956, the first high-level programming language called **FORTRAN** was developed, primarily used for scientific and engineering computations. Many codebases written in this language are still used today in scientific and engineering applications!
+✨ Passionate about building User Interfaces (UI) and enhancing User Experiences (UX).  
+🎯 Goals: Develop cutting-edge web solutions that create a real impact.  
+🌱 Currently improving my skills in **Angular**, **Bootstrap**, and design optimization.  
+💬 Ask me about **JavaScript**, **Angular**, **UI/UX Design**, and **Web Development**.  
 
 ---
 
-## 🌐 Social  
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:aliabofooda1234@gmail.com)  
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/aliashraf_22599)  
-[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/@realAliAshraf)  
-[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+201229576635)  
-[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/ali.fouda.7186/)  
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ali-ashraf-8b619b22a)  
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/aliashraf_19)  
-[![Stack Overflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/23373011)  
+```golang
+package main
 
----
+import (
+	"fmt"
+)
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+type Bio map[string]string
 
----
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
 
-## I Code With  
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "A dedicated software engineer and frontend developer passionate about crafting interactive web solutions.",
+		"- 🔭 I’m currently working on":      "Optimizing the performance and design of web applications.",
+		"- 🌱 I’m currently learning":        "Advanced Bootstrap, responsive web design, and improving backend skills.",
+		"- 👯 I’m looking to collaborate on": "Frontend development projects, UI/UX enhancements, and Angular-based applications.",
+		"- 🤔 I’m looking for help with":     "Backend optimization and advanced database integrations.",
+		"- 📫 How to reach me:":              "Check my contact links below.",
+	}
+}
+🌐 Connect with Me
+<p align="center"> <a href="mailto:aliabofooda1234@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Email"> </a> <a href="https://www.linkedin.com/in/ali-ashraf-8b619b22a"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn"> </a> <a href="https://twitter.com/@realAliAshraf"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter"> </a> <a href="https://wa.me/+201229576635"> <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp"> </a> </p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS logo" />
-</p>
+I Code With
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /> </p>
+
+ithub Stats
+<h4 align="center">Visitor's count :eyes:</h4> <p align="center"><img src="https://profile-counter.glitch.me/{AliAshraf}/count.svg" alt="Ali Ashraf :: Visitor's Count" /></p> <h4 align="center">Top Languages</h4> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAshraf&langs_count=10&theme=tokyonight&layout=compact" alt="Ali Ashraf :: Top Langs" /></p> <h4 align="center">Profile Stats</h4> <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AliAshraf&show_icons=true&theme=synthwave" alt="Ali Ashraf :: Profile Stats" /></p> <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
