@@ -40,7 +40,7 @@
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB3NWY4NG9pcmxxYmZjOTI5ZHo2c2NkcDduZ3hlNDFqemNvZTNjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" />
 
-<hr style="margin: 20px 0; border-top: 1px solid #ccc;"/>
+
 
 <h2 style="font-size: 1.8rem; color: #222;">I code with</h2>
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
