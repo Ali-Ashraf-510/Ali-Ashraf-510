@@ -24,9 +24,9 @@ In 1956, the first high-level programming language called **FORTRAN** was develo
 
 ---
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB3NWY4NG9pcmxxYmZjOTI5ZHo2c2NkcDduZ3hlNDFqemNvZTNjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" height="150" alt="GIF">
-</div>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ---
 
