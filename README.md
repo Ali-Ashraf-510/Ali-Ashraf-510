@@ -127,7 +127,7 @@ me = Developer()
 ## 🎵 Spotify Playing
 
 <div align="center">
-  <img src="https://open.spotify.com/playlist/37i9dQZF1DWZKucvJjqs4a?si=5cm4baT9SDOe-TcjNGyvwA" alt="Spotify Now Playing" />
+  <a>https://open.spotify.com/playlist/37i9dQZF1DWZKucvJjqs4a?si=5cm4baT9SDOe-TcjNGyvwA</a>
 </div>
 
 ---
