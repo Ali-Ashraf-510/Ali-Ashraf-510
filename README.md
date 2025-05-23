@@ -121,7 +121,7 @@ me = Developer()
 ## 🎨 Latest Projects Showcase
 
 <div align="center">
-  <a href="[https://github.com/aliashraf/ai-project-1](https://github.com/Ali-Ashraf-510/HotelWebsite_SupaBase)">
+  <a href="https://github.com/Ali-Ashraf-510/HotelWebsite_SupaBase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliashraf&repo=ai-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
   </a>
   <a href="[https://github.com/aliashraf/ml-algorithms](https://github.com/Ali-Ashraf-510/PortfolioSupaBase)">
