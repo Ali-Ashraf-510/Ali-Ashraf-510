@@ -127,7 +127,7 @@ me = Developer()
 ## 🎵 Spotify Playing
 
 <div align="center">
-  <img src="[https://spotify-github-profile.vercel.app/api/spotify?](https://open.spotify.com/playlist/37i9dQZF1DWZKucvJjqs4a?si=_5dGGx3uTIGyKHv-foxpkA)background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  <img src="https://open.spotify.com/playlist/37i9dQZF1DWZKucvJjqs4a?si=_5dGGx3uTIGyKHv-foxpkA?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
 </div>
 
 ---
